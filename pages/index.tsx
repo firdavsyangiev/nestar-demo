@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <div className={styles.page}>
         <main className={styles.main}>
-          <h1> APP ROUTER </h1>
+          <h1> PAGES ROUTER</h1>
           <div className={styles.intro}>
             <h1>
               To get started, edit the{" "}
